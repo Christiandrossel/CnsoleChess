@@ -1,0 +1,37 @@
+﻿  Quelle.c
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(85): warning C4047: "return": Anzahl der Dereferenzierungen bei "int" und "char *" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(95): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *" und "char" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(95): warning C4024: "konvertierebst": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(96): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *" und "int" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(96): warning C4024: "konvertierez": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(97): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *" und "char" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(97): warning C4024: "konvertierebst": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(98): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "char *" und "int" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(98): warning C4024: "konvertierez": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(164): warning C4013: "load" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(168): warning C4013: "save" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: Siehe Deklaration von "scanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(182): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: Siehe Deklaration von "fopen"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(193): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: Siehe Deklaration von "fscanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(196): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: Siehe Deklaration von "fscanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(199): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: Siehe Deklaration von "fscanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(208): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: Siehe Deklaration von "fopen"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(288): warning C4098: "main": "void"-Funktion gibt einen Wert zurück
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(249): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: Siehe Deklaration von "scanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(272): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: Siehe Deklaration von "scanf"
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(230): warning C4101: "figur": Unreferenzierte lokale Variable
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(231): warning C4101: "Feld": Unreferenzierte lokale Variable
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(295): warning C4047: "==": Anzahl der Dereferenzierungen bei "char *" und "int" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(296): warning C4047: "==": Anzahl der Dereferenzierungen bei "int *" und "int" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(297): warning C4047: "==": Anzahl der Dereferenzierungen bei "int *" und "int" unterschiedlich
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(293): warning C4477: "printf": Die Formatzeichenfolge "%c" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "char *" auf.
+c:\users\christian\google drive\medieninformatik\projekte\belegarbeit\belegarbeit\quelle.c(82): warning C4715: "konvertierebst": Nicht alle Steuerelementpfade geben einen Wert zurück.
+  Belegarbeit.vcxproj -> C:\Users\Christian\Google Drive\Medieninformatik\Projekte\Belegarbeit\Debug\Belegarbeit.exe
